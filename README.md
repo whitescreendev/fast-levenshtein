@@ -66,6 +66,7 @@ Levenshtein distance.
 
 For additional background on string representations and edit-distance
 implementations, see [Levenshtein implementations and Unicode sequence units](https://www.levenshtein.net/levenshtein-implementations).
+
 ## Building and Testing
 
 To build the code and run the tests:
